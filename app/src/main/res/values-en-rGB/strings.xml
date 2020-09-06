@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPEED CALCULATOR</string>
+    <string name="s">Enter distance (meter)</string>
+    <string name="t">Enter time (second)</string>
+    <string name="clear">CLEAR</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="average">Average Speed (km/h)</string>
+</resources>
